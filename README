@@ -1,0 +1,5 @@
+cf-droid provides a shell command line to change android settings.
+
+It works the same way as pm or am.
+
+cf-droid was created in order to run with cf-engine.

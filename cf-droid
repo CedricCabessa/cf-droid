@@ -1,0 +1,3 @@
+base=/system
+export CLASSPATH=$base/framework/cfdroid.jar
+exec app_process $base/bin com.genymobile.cfdroid.CfDroid "$@"
